@@ -1,4 +1,4 @@
-# Derin Öğrenme 2026: 100 Günlük Kamp - Ödev 1: Doğrusal Olmayan Veri Sınıflandırması
+# Deep Learning 2026: 100 Days of Code - Assignment 1: Non-Linear Data Classification / Derin Öğrenme 2026: 100 Günlük Kamp - Ödev 1: Doğrusal Olmayan Veri Sınıflandırması
 
 [English](#english) | [Türkçe](#türkçe)
 
@@ -87,6 +87,14 @@ Projede kullanılan veri seti: `08-seismic_activity_svm.csv` olup, 400 satırdan
 3. **Optimizasyon:** `Adam` optimizasyon algoritması (öğrenme oranı = 0.001) kullanılmıştır.
 4. **Eğitim:** Model 401 epok boyunca eğitilmiş ve %100 doğruluk (accuracy) oranına ulaşılmıştır.
 
+### Görselleştirmeler
+- Sismik aktivitelerin 2 boyutlu saçılım grafiği (scatter plot).
+- 3 boyutlu veri gösterimi.
+- Eğitim ve test setleri için karar sınırı (decision boundary) grafikleri.
+
+### Dosyalar
+- `Task-1-NonLinear.ipynb`: Projenin tüm adımlarını içeren Jupyter Notebook dosyası.
+- `08-seismic_activity_svm.csv`: Ödevde kullanılan veri seti.
 ### Görselleştirmeler
 - Sismik aktivitelerin 2 boyutlu saçılım grafiği (scatter plot).
 - 3 boyutlu veri gösterimi.
